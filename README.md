@@ -17,8 +17,7 @@ This lab requires permissions to create Azure Active Directory (Azure AD) users,
 + Task 2: Create custom RBAC roles 
 + Task 3: Assign RBAC roles
 ## Architecture diagram 
-
-Architecture diagram.png
+![Architecture diagram](https://user-images.githubusercontent.com/81856265/232025543-ecbf7276-7ab5-402e-a6d9-7059731b55d0.png)
 
 #### Task 1: Implement Management Groups
 
