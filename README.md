@@ -18,6 +18,8 @@ This lab requires permissions to create Azure Active Directory (Azure AD) users,
 + Task 3: Assign RBAC roles
 ## Architecture diagram 
 
+Architecture diagram.png
+
 #### Task 1: Implement Management Groups
 
 In this task, you will create and configure management groups. 
